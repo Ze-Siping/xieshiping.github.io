@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "二寸_笑_精修.png"
   name             : "谢师平"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : 
+  bio              :
+  location         : "现所在地：北京"
+  employer         : "毕业院校：中国社会科学院大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Ze_Siping@126.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
