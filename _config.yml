@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PersonalImage.jpeg"
+  avatar           : "avatar.png"
   name             : "谢师平"
   pronouns         : 
   bio              :
-  location         : "现所在地："
+  location         : "现所在地：北京"
   employer         : "毕业院校：中国社会科学院大学"
-  uri              : # URL
-  email            : "Ze_Siping@126.com"
+  uri              : 
+  email            : 
 
   # Academic websites
   arxiv            : 
